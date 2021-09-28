@@ -1,6 +1,15 @@
 # Created by https://www.toptal.com/developers/gitignore/api/unity,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=unity,python
 
+# Images
+*.tif
+*.png
+*.jpg
+*.bmp
+
+#Data files
+*.npz
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
