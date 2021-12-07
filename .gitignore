@@ -9,6 +9,9 @@
 
 #Data files
 *.npz
+*.txt
+*.h5
+*.hdf5
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
