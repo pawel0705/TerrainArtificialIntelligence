@@ -12,6 +12,8 @@
 *.txt
 *.h5
 *.hdf5
+*.ipynb_checkpoints
+*.v2
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -226,3 +228,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unity,python
+*.data-00001-of-00002
+*.data-00000-of-00002
+*.index
+JupyterNotebooks/training_checkpoints/checkpoint
