@@ -7,7 +7,7 @@ Druga część repozytorium (aplikacja Unity): [link](https://github.com/pawel07
 
 Repozytorium zawiera zestaw Jupyter Notebooków przygotowujących model pix2pix (architektura głębokiej sieci neuronowej GAN) dokonujący translacji szkicu użytkownika na mapę wysokości. 
 
-## Przykładowe zwracane przez wyuczony model
+## Przykładowe wyniki zwracane przez wyuczony model
 
 ![img](/images/img1.png)
 ![img](/images/img2.png)
